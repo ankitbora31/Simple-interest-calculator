@@ -1,0 +1,25 @@
+body {
+    align-content: center;
+    background-color:tan;
+    font-family: arial;
+    color: white;
+}
+h1{
+    color:grey;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.maindiv{
+    margin: auto;
+    text-indent: 20px;
+    line-height: 1.8;
+    word-spacing: -2px;
+    width: 50%;
+    border: 3px solid green;
+    background-color: white;
+    color: black;
+    width: 300px;
+    padding: 20px;
+    border-radius: 25px;
+    align-content: center;
+}
